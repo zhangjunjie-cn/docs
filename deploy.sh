@@ -18,5 +18,5 @@ git config --global http.postBuffer 524288000
 git config --global core.autocrlf false
 git push https://github.com/zhangjunjie-cn/docs.git --force master:dist 
 
-# cd -
-# rm -rf docs/.vitepress/dist
+cd -
+rm -rf docs/.vitepress/dist

@@ -3,7 +3,7 @@
 		<div class="video-container" v-cloak>
 			<video v-if="!curDeviceIsMobile" class="logo-video" autoplay loop muted>
 				<source
-					src="./template.mp4"
+					src="https://upos-sz-mirrorali.bilivideo.com/upgcxcode/05/79/1407277905/1407277905-1-30080.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&amp;uipk=5&amp;nbs=1&amp;deadline=1705308803&amp;gen=playurlv2&amp;os=alibv&amp;oi=2102733274&amp;trid=1fd1e2dd439944029bd824f599bce228u&amp;mid=297634558&amp;platform=pc&amp;upsig=ddb791294fea69b6fb5d1700b99acaca&amp;uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&amp;bvc=vod&amp;nettype=0&amp;orderid=0,3&amp;buvid=13433999-A5A9-17E9-F843-190B78E309F176597infoc&amp;build=0&amp;f=u_0_0&amp;agrr=1&amp;bw=225935&amp;logo=80000000" style="display: inline;"
 					type="video/mp4"
 				/>
 			</video>
